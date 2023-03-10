@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -exec chmod -R +x . {}
+chmod --refernce=. +x . {}
